@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/moonside/static/css/main.5f361e03.chunk.css",
-    "main.js": "/moonside/static/js/main.bac96334.chunk.js",
-    "main.js.map": "/moonside/static/js/main.bac96334.chunk.js.map",
+    "main.css": "/moonside/static/css/main.cb63505b.chunk.css",
+    "main.js": "/moonside/static/js/main.033d3100.chunk.js",
+    "main.js.map": "/moonside/static/js/main.033d3100.chunk.js.map",
     "runtime-main.js": "/moonside/static/js/runtime-main.aa097ad8.js",
     "runtime-main.js.map": "/moonside/static/js/runtime-main.aa097ad8.js.map",
-    "static/js/2.2a1edbc6.chunk.js": "/moonside/static/js/2.2a1edbc6.chunk.js",
-    "static/js/2.2a1edbc6.chunk.js.map": "/moonside/static/js/2.2a1edbc6.chunk.js.map",
+    "static/css/2.de424728.chunk.css": "/moonside/static/css/2.de424728.chunk.css",
+    "static/js/2.3681b780.chunk.js": "/moonside/static/js/2.3681b780.chunk.js",
+    "static/js/2.3681b780.chunk.js.map": "/moonside/static/js/2.3681b780.chunk.js.map",
     "index.html": "/moonside/index.html",
-    "precache-manifest.d1eb23f5dc975a01ae769352fc6bfe99.js": "/moonside/precache-manifest.d1eb23f5dc975a01ae769352fc6bfe99.js",
+    "precache-manifest.8a7931d08b8e9bdda653c2e5c771c9f9.js": "/moonside/precache-manifest.8a7931d08b8e9bdda653c2e5c771c9f9.js",
     "service-worker.js": "/moonside/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/moonside/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2a1edbc6.chunk.js.LICENSE.txt": "/moonside/static/js/2.2a1edbc6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/moonside/static/media/logo.5d5d9eef.svg"
+    "static/css/2.de424728.chunk.css.map": "/moonside/static/css/2.de424728.chunk.css.map",
+    "static/css/main.cb63505b.chunk.css.map": "/moonside/static/css/main.cb63505b.chunk.css.map",
+    "static/js/2.3681b780.chunk.js.LICENSE.txt": "/moonside/static/js/2.3681b780.chunk.js.LICENSE.txt",
+    "static/media/Discord-Logo+Wordmark-Black.svg": "/moonside/static/media/Discord-Logo+Wordmark-Black.bb408e03.svg",
+    "static/media/moonside.png": "/moonside/static/media/moonside.cbb87a29.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aa097ad8.js",
-    "static/js/2.2a1edbc6.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bac96334.chunk.js"
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3681b780.chunk.js",
+    "static/css/main.cb63505b.chunk.css",
+    "static/js/main.033d3100.chunk.js"
   ]
 }
