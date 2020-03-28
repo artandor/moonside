@@ -1,9 +1,109 @@
-.main_logo {
-    transition-duration: 0.5s;
+body {
+    background-color: #65809c52;
+}
+
+.body-content {
+    background-color: white;
+}
+
+.highlighted-title {
+    color: #b37e7c;
+}
+
+p {
+    font-size: 22px;
+}
+
+.banner-site {
+    height: 90vh;
+    margin-bottom: 15vh;
+}
+
+.banner-site .content {
+    background-color: #65809ca8;
+    padding: 5em 3em;
+    z-index: 50;
+    position: relative;
+    text-align: center;
+    top: 20vh;
+}
+
+.banner-site .content h1, .banner-site .content h4, .banner-site .content a {
+    color: rgb(255, 255, 255);
+    margin: 0.5em 0;
+}
+
+h1 {
+    color: #00ffdc;
+    letter-spacing: 2px;
+}
+
+.banner-site img {
+    width: 100%;
     position: absolute;
-    width: 200px;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    height: 100%;
+}
+
+.youtube {
+    text-align: center;
+}
+
+ul.features {
+    display: -moz-inline-flex;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flex;
+    display: inline-flex;
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+}
+
+.features li {
+    text-align: center;
+}
+
+.icon-major {
+    display: inline-block;
+    font-size: 3rem;
+}
+
+.wrapper-major {
+    text-align: center;
+    display: block;
+    border: solid 1px #2C3E50;
+    color: #b37e7c;
+    width: 5.25rem;
+    height: 5.25rem;
+    line-height: 5rem;
+    border-radius: 5rem;
+    margin: auto;
+}
+
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.iframe-container iframe {
+    position: absolute;
     top: 0;
-    z-index: 1;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.spotlight {
+    background-color: #65809ca8;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.spotlight .content {
+    padding: 5rem 4rem 3rem 4rem;
+}
+.spotlight h2 {
+    margin-bottom: 0.65rem;
 }
