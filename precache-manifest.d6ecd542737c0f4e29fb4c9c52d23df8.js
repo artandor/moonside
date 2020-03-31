@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd164a163cbedcf9b9fc7e7931018fc2",
+    "revision": "53413f349cd5ea52964688230339cd0c",
     "url": "/moonside/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moonside/static/css/2.5e704a1c.chunk.css"
   },
   {
-    "revision": "0071a2b0a43024600953",
+    "revision": "b99ca5efecf42b8e7cfc",
     "url": "/moonside/static/css/main.e0a65578.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moonside/static/js/2.6f22a923.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0071a2b0a43024600953",
-    "url": "/moonside/static/js/main.3512915b.chunk.js"
+    "revision": "b99ca5efecf42b8e7cfc",
+    "url": "/moonside/static/js/main.33d3b31d.chunk.js"
   },
   {
     "revision": "e2200001ca1155631c0c",
