@@ -96,7 +96,7 @@ ul.features {
 }
 
 .spotlight {
-    background-color: #65809ca8;
+    background-color: #b37e7c57;
     margin-right: 0;
     margin-left: 0;
 }
@@ -106,4 +106,16 @@ ul.features {
 }
 .spotlight h2 {
     margin-bottom: 0.65rem;
+}
+
+#footer {
+    padding: 1.75rem 2rem;
+    cursor: default;
+    color: #fff;
+}
+
+#footer .copyright {
+    letter-spacing: 0;
+    line-height: 1.65em;
+    font-weight: 400;
 }

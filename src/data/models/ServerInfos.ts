@@ -1,0 +1,33 @@
+export default interface ServerInfos {
+    top_id: number;
+    name: string;
+    slug: string;
+    website: string;
+    short_description: string;
+    ip: string;
+    port?: any;
+    slots: number;
+    access: string;
+    teamspeak_ip?: any;
+    teamspeak_port: number;
+    mumble_ip?: any;
+    mumble_port: number;
+    discord: string;
+    total_clics: number;
+    total_votes: number;
+    total_likes: number;
+    facebook: string;
+    twitter: string;
+    google?: any;
+    youtube: string;
+    created_at: string;
+    updated_at: string;
+    players?: any;
+    online?: any;
+    plugins?: any;
+    twitch_login?: any;
+    twitch_live: number;
+    display_lives: number;
+    discord_webhook: string;
+    show_ip: number;
+}
