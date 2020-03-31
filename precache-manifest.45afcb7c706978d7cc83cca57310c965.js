@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44edaad5ec45a3a3f69a47ebfd38405f",
+    "revision": "b271c1f393005f5e7272d264676821ef",
     "url": "/moonside/index.html"
   },
   {
-    "revision": "50fbf070004a0019e941",
+    "revision": "bdd912ec8122b54da784",
     "url": "/moonside/static/css/2.5e704a1c.chunk.css"
   },
   {
-    "revision": "c7f8d2ede40eb9041c7f",
-    "url": "/moonside/static/css/main.6d20bf07.chunk.css"
+    "revision": "46256b35fef80cb60bcc",
+    "url": "/moonside/static/css/main.ada9e73a.chunk.css"
   },
   {
-    "revision": "50fbf070004a0019e941",
-    "url": "/moonside/static/js/2.221234e1.chunk.js"
+    "revision": "bdd912ec8122b54da784",
+    "url": "/moonside/static/js/2.0913db2b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/moonside/static/js/2.221234e1.chunk.js.LICENSE.txt"
+    "url": "/moonside/static/js/2.0913db2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7f8d2ede40eb9041c7f",
-    "url": "/moonside/static/js/main.0334e60b.chunk.js"
+    "revision": "46256b35fef80cb60bcc",
+    "url": "/moonside/static/js/main.cff6da38.chunk.js"
   },
   {
     "revision": "e2200001ca1155631c0c",
