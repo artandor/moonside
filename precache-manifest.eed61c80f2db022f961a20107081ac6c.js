@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b271c1f393005f5e7272d264676821ef",
+    "revision": "790bb8e9d278ac7105046ccde1fae12a",
     "url": "/moonside/index.html"
   },
   {
-    "revision": "bdd912ec8122b54da784",
+    "revision": "891982d9d0bcd4c4b535",
     "url": "/moonside/static/css/2.5e704a1c.chunk.css"
   },
   {
-    "revision": "46256b35fef80cb60bcc",
-    "url": "/moonside/static/css/main.ada9e73a.chunk.css"
+    "revision": "0372b5e89e08379a8b8b",
+    "url": "/moonside/static/css/main.8627f2b5.chunk.css"
   },
   {
-    "revision": "bdd912ec8122b54da784",
-    "url": "/moonside/static/js/2.0913db2b.chunk.js"
+    "revision": "891982d9d0bcd4c4b535",
+    "url": "/moonside/static/js/2.36942bdd.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/moonside/static/js/2.0913db2b.chunk.js.LICENSE.txt"
+    "url": "/moonside/static/js/2.36942bdd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46256b35fef80cb60bcc",
-    "url": "/moonside/static/js/main.cff6da38.chunk.js"
+    "revision": "0372b5e89e08379a8b8b",
+    "url": "/moonside/static/js/main.5f7435ad.chunk.js"
   },
   {
     "revision": "e2200001ca1155631c0c",
@@ -46,5 +46,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "daace123020d86405dc96ca55e1980a3",
     "url": "/moonside/static/media/plage.daace123.png"
+  },
+  {
+    "revision": "3c93af75a7f0943d79329d721cd51f51",
+    "url": "/moonside/static/media/plainte.3c93af75.png"
+  },
+  {
+    "revision": "23e4e639122f6b851659948f1d4881d4",
+    "url": "/moonside/static/media/taxi.23e4e639.png"
   }
 ]);
