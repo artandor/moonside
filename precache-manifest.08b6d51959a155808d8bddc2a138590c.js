@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34e740f4568c0ce20af0735fbd0d8351",
+    "revision": "e109a14ba43fab0c9f0eaa54c54c24af",
     "url": "/moonside/index.html"
   },
   {
-    "revision": "5c3a1766f200c43d1d9e",
+    "revision": "8a8bcc04165be4ad7dbf",
     "url": "/moonside/static/css/2.5e704a1c.chunk.css"
   },
   {
-    "revision": "0f4c770e79c14b892e6f",
-    "url": "/moonside/static/css/main.e0a65578.chunk.css"
+    "revision": "fcc4e834580ba8dc9f19",
+    "url": "/moonside/static/css/main.fc165bfb.chunk.css"
   },
   {
-    "revision": "5c3a1766f200c43d1d9e",
-    "url": "/moonside/static/js/2.6f22a923.chunk.js"
+    "revision": "8a8bcc04165be4ad7dbf",
+    "url": "/moonside/static/js/2.68390d5b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/moonside/static/js/2.6f22a923.chunk.js.LICENSE.txt"
+    "url": "/moonside/static/js/2.68390d5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f4c770e79c14b892e6f",
-    "url": "/moonside/static/js/main.dd960b03.chunk.js"
+    "revision": "fcc4e834580ba8dc9f19",
+    "url": "/moonside/static/js/main.9d2cd423.chunk.js"
   },
   {
     "revision": "e2200001ca1155631c0c",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "192cb9459cbc0f9e73e2591b700f1857",
     "url": "/moonside/static/media/Discord-Logo+Wordmark-White.192cb945.svg"
+  },
+  {
+    "revision": "cdcf607de3d388c56b4c1c0ceee31a46",
+    "url": "/moonside/static/media/banner.cdcf607d.gif"
   },
   {
     "revision": "c5a7ce77981844113f32b5d558d8e3dd",
