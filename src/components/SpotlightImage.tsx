@@ -4,13 +4,13 @@ import { Row, Col, Image } from 'react-bootstrap'
 export default class SpotlightImage extends Component<SpotlightImageProps, any> {
     render() {
         return (
-            <div className="spotlight my-3">
+            <div className="spotlight">
                 <Row>
-                    <Col xs={6} className="content">
+                    <Col xs={12} xl={6}  className="content">
                         <h2>{this.props.title}</h2>
                         <p>{this.props.texte}</p>
                     </Col>
-                    <Col xs={6}>
+                    <Col xs={12} xl={6}>
                         <Image rounded fluid src={this.props.image} />
                     </Col>
                     {/* {this.props.imageRight ? this.textCol && this.imageCol : this.imageCol && this.textCol} */}

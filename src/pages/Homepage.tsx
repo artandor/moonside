@@ -1,27 +1,16 @@
 import React, { Component } from 'react'
 import BannerServer from '../components/BannerServer'
 import SpotlightImage from "../components/SpotlightImage";
-import { Container, Row, Carousel } from 'react-bootstrap'
+import { Container, Row, Carousel, Col } from 'react-bootstrap'
 import { FaEnvelope, FaGem, FaCommentDots, FaHeart } from 'react-icons/fa';
-import YouTube from 'react-youtube';
 import burningman from '../assets/burningman.png'
 import plage from '../assets/plage.png'
 import karting from '../assets/karting.png'
 import taxi from '../assets/taxi.png'
-import plainte from '../assets/plainte.png'
+//import plainte from '../assets/plainte.png'
 
 export default class Homepage extends Component {
     render() {
-        const opts: any = {
-            height: '480',
-            width: '854',
-            playerVars: { // https://developers.google.com/youtube/player_parameters
-                autoplay: 0,
-                accelerometer: 1,
-                allowfullscreen: 1,
-                controls: 1,
-            }
-        };
         return (
             <div>
                 <BannerServer />
@@ -34,49 +23,41 @@ export default class Homepage extends Component {
                     </p>
 
                     <SpotlightImage imageRight={false} image={burningman} title="Vos scènes. Vos choix." texte="Une multitude de péripéties et de décisions contraindront votre RP. Saurez-vous en faire bon usage ?" />
-
-                    {/*                     <div className="iframe-container mx-auto my-3">
-                        <YouTube
-                            videoId="ZeRt-u9xRYo"
-                            opts={opts}
-                        />
-                    </div> */}
                     <div className="my-3">
                         <Container>
-                            <Row>
-                                <ul className="features col-sm-12">
-                                    <li className="col-sm-3">
-                                        <span className="wrapper-major">
-                                            <FaEnvelope className="icon-major" />
-                                        </span>
-                                        <h3>Accès libre</h3>
-                                    </li>
-                                    <li className="col-sm-3">
-                                        <span className="wrapper-major">
-                                            <FaGem className="icon-major" />
-                                        </span>
-                                        <h3>Légal &amp; Illégal</h3>
-                                    </li>
-                                    <li className="col-sm-3">
-                                        <span className="wrapper-major">
-                                            <FaCommentDots className="icon-major" />
-                                        </span>
-                                        <h3>Evénements &amp; Soirées</h3>
-                                    </li>
-                                    <li className="col-sm-3">
-                                        <span className="wrapper-major">
-                                            <FaHeart className="icon-major" />
-                                        </span>
-                                        <h3>Staff actif</h3>
-                                    </li>
-                                </ul>
+                            <Row className="text-center">
+                                <Col>
+                                    <span className="wrapper-major">
+                                        <FaEnvelope className="icon-major" />
+                                    </span>
+                                    <h3>Accès libre</h3>
+                                </Col>
+                                <Col>
+                                    <span className="wrapper-major">
+                                        <FaGem className="icon-major" />
+                                    </span>
+                                    <h3>Légal &amp; Illégal</h3>
+                                </Col>
+                                <Col>
+                                    <span className="wrapper-major">
+                                        <FaCommentDots className="icon-major" />
+                                    </span>
+                                    <h3>Evénements &amp; Soirées</h3>
+                                </Col>
+                                <Col>
+                                    <span className="wrapper-major">
+                                        <FaHeart className="icon-major" />
+                                    </span>
+                                    <h3>Staff actif</h3>
+                                </Col>
+
                             </Row>
                         </Container>
                     </div>
                 </div>
 
                 <div className="my-3 pt-2">
-                    <h2 className="text-center highlighted-title">Disponible seulement sur Moonside</h2>
+                    <h2 className="text-center highlighted-title mb-3">Disponible seulement sur Moonside</h2>
                     <Carousel>
                         <Carousel.Item>
                             <img
@@ -84,7 +65,6 @@ export default class Homepage extends Component {
                                 src={karting}
                                 alt="Lieux inédits"
                             />
-
                             <Carousel.Caption>
                                 <h3>Lieux inédits</h3>
                                 <p>Courses de karting, locations de planches de surf, fastfood, bar de bikers, ...</p>
@@ -123,7 +103,7 @@ export default class Homepage extends Component {
                                 <p>Trafics de drogues inédits, scènes travaillées, police efficace. L'illégal n'aura jamais autant eu le goût du risque.</p>
                             </Carousel.Caption>
                         </Carousel.Item>
-                        <Carousel.Item>
+                        {/*                         <Carousel.Item>
                             <img
                                 className="d-block w-100"
                                 src={plainte}
@@ -133,7 +113,7 @@ export default class Homepage extends Component {
                                 <h3>Immersion maximale</h3>
                                 <p>Dépot de plainte, candidature pôle emploi, Twitter ... Une fois en jeu, plus besoin de Discord !</p>
                             </Carousel.Caption>
-                        </Carousel.Item>
+                        </Carousel.Item> */}
                     </Carousel>
                 </div>
                 <div className="pb-3"></div>

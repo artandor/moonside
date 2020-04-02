@@ -1,4 +1,22 @@
+@font-face {
+    font-family: MoonRegular;
+    src: url(assets/fonts/Moon2.0-Regular.otf);
+}
+
+@font-face {
+    font-family: MoonBold;
+    src: url(assets/fonts/Moon2.0-Bold.otf);
+}
+
+@font-face {
+    font-family: MoonLight;
+    src: url(assets/fonts/Moon2.0-Light.otf);
+}
+
 body {
+    font-family: MoonRegular;
+    font-size: 18px;
+    letter-spacing: 1px;
     background-color: #65809c52;
 }
 
@@ -10,7 +28,14 @@ body {
     color: #b37e7c;
 }
 
-p {
+.navbar-nav .server-status {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p,
+li {
     font-size: 22px;
 }
 
@@ -20,7 +45,7 @@ p {
 }
 
 .banner-site .content {
-    background-color: #65809ca8;
+    background-color: #65809cc7;
     padding: 5em 3em;
     z-index: 50;
     position: relative;
@@ -28,7 +53,9 @@ p {
     top: 20vh;
 }
 
-.banner-site .content h1, .banner-site .content h4, .banner-site .content a {
+.banner-site .content h1,
+.banner-site .content h4,
+.banner-site .content a {
     color: rgb(255, 255, 255);
     margin: 0.5em 0;
 }
@@ -97,13 +124,13 @@ ul.features {
 
 .spotlight {
     background-color: #b37e7c57;
-    margin-right: 0;
-    margin-left: 0;
+    margin: 2.5rem 0;
 }
 
 .spotlight .content {
     padding: 5rem 4rem 3rem 4rem;
 }
+
 .spotlight h2 {
     margin-bottom: 0.65rem;
 }
