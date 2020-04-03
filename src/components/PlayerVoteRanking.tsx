@@ -31,7 +31,7 @@ export default class PlayerVoteRanking extends Component {
                         </tr>
                     </thead>
                     <tbody>
-                        {this.state.playerRank.slice(0, 5).map((player: any, index) => {
+                        {this.state.playerRank.slice(0, 10).map((player: any, index) => {
                             return (
                                 <tr key={index}>
                                     <td>{index === 0 ? <FaMedal color="gold" />

@@ -100,7 +100,7 @@ export default class Homepage extends Component {
                             />
                             <Carousel.Caption>
                                 <h3>Illégal poussé au paroxysme</h3>
-                                <p>Trafics de drogues inédits, scènes travaillées, police efficace. L'illégal n'aura jamais autant eu le goût du risque.</p>
+                                <p>Trafics inédits, scènes travaillées, police efficace. L'illégal n'aura jamais autant eu le goût du risque.</p>
                             </Carousel.Caption>
                         </Carousel.Item>
                         {/*                         <Carousel.Item>

@@ -146,3 +146,20 @@ ul.features {
     line-height: 1.65em;
     font-weight: 400;
 }
+
+.job-category.service{
+    background-color: #ff5b55;
+}
+
+.job-category.soiree{
+    background-color: #647cd4;
+}
+
+.job-category.premiere{
+    background-color: brown;
+    color: white;
+}
+
+.job-category.shop{
+    background-color: #65809c52;
+}
