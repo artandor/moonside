@@ -1,33 +1,34 @@
 {
   "files": {
-    "main.css": "/moonside/static/css/main.8fccec54.chunk.css",
-    "main.js": "/moonside/static/js/main.08d0d624.chunk.js",
-    "main.js.map": "/moonside/static/js/main.08d0d624.chunk.js.map",
+    "main.css": "/moonside/static/css/main.94da983f.chunk.css",
+    "main.js": "/moonside/static/js/main.906bae9d.chunk.js",
+    "main.js.map": "/moonside/static/js/main.906bae9d.chunk.js.map",
     "runtime-main.js": "/moonside/static/js/runtime-main.aa097ad8.js",
     "runtime-main.js.map": "/moonside/static/js/runtime-main.aa097ad8.js.map",
     "static/css/2.5e704a1c.chunk.css": "/moonside/static/css/2.5e704a1c.chunk.css",
-    "static/js/2.925842fa.chunk.js": "/moonside/static/js/2.925842fa.chunk.js",
-    "static/js/2.925842fa.chunk.js.map": "/moonside/static/js/2.925842fa.chunk.js.map",
+    "static/js/2.3f9eeada.chunk.js": "/moonside/static/js/2.3f9eeada.chunk.js",
+    "static/js/2.3f9eeada.chunk.js.map": "/moonside/static/js/2.3f9eeada.chunk.js.map",
     "index.html": "/moonside/index.html",
-    "precache-manifest.b90a99fbeaa93b171ded78a1cac6f15a.js": "/moonside/precache-manifest.b90a99fbeaa93b171ded78a1cac6f15a.js",
+    "precache-manifest.1a279be90eb3e59c1dca236b2327506b.js": "/moonside/precache-manifest.1a279be90eb3e59c1dca236b2327506b.js",
     "service-worker.js": "/moonside/service-worker.js",
     "static/css/2.5e704a1c.chunk.css.map": "/moonside/static/css/2.5e704a1c.chunk.css.map",
-    "static/css/main.8fccec54.chunk.css.map": "/moonside/static/css/main.8fccec54.chunk.css.map",
-    "static/js/2.925842fa.chunk.js.LICENSE.txt": "/moonside/static/js/2.925842fa.chunk.js.LICENSE.txt",
+    "static/css/main.94da983f.chunk.css.map": "/moonside/static/css/main.94da983f.chunk.css.map",
+    "static/js/2.3f9eeada.chunk.js.LICENSE.txt": "/moonside/static/js/2.3f9eeada.chunk.js.LICENSE.txt",
     "static/media/Discord-Logo+Wordmark-White.svg": "/moonside/static/media/Discord-Logo+Wordmark-White.192cb945.svg",
     "static/media/App.css": "/moonside/static/media/Moon2.0-Regular.beaab266.otf",
     "static/media/banner.gif": "/moonside/static/media/banner.cdcf607d.gif",
-    "static/media/burningman.png": "/moonside/static/media/burningman.c5a7ce77.png",
-    "static/media/karting.png": "/moonside/static/media/karting.941d819c.png",
+    "static/media/burningman.png": "/moonside/static/media/burningman.147d239d.png",
+    "static/media/karting.png": "/moonside/static/media/karting.b22103ad.png",
     "static/media/moonside.png": "/moonside/static/media/moonside.cbb87a29.png",
     "static/media/plage.png": "/moonside/static/media/plage.daace123.png",
-    "static/media/taxi.png": "/moonside/static/media/taxi.23e4e639.png"
+    "static/media/taxi.png": "/moonside/static/media/taxi.a1ba5e57.png",
+    "static/media/taxiMoldu.jpg": "/moonside/static/media/taxiMoldu.d95a82dc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa097ad8.js",
     "static/css/2.5e704a1c.chunk.css",
-    "static/js/2.925842fa.chunk.js",
-    "static/css/main.8fccec54.chunk.css",
-    "static/js/main.08d0d624.chunk.js"
+    "static/js/2.3f9eeada.chunk.js",
+    "static/css/main.94da983f.chunk.css",
+    "static/js/main.906bae9d.chunk.js"
   ]
 }

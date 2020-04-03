@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e9bc7db8b22e6d0c5de36ad6cc5ec4e",
+    "revision": "e9ac9c183dbbed94d0695842387b4582",
     "url": "/moonside/index.html"
   },
   {
-    "revision": "9f7d0d80e4a1f4b57b27",
+    "revision": "f70fcd27342593d268e5",
     "url": "/moonside/static/css/2.5e704a1c.chunk.css"
   },
   {
-    "revision": "e6c9a70c2e53b10be340",
-    "url": "/moonside/static/css/main.8fccec54.chunk.css"
+    "revision": "0ea68f2656d9c356e163",
+    "url": "/moonside/static/css/main.94da983f.chunk.css"
   },
   {
-    "revision": "9f7d0d80e4a1f4b57b27",
-    "url": "/moonside/static/js/2.925842fa.chunk.js"
+    "revision": "f70fcd27342593d268e5",
+    "url": "/moonside/static/js/2.3f9eeada.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/moonside/static/js/2.925842fa.chunk.js.LICENSE.txt"
+    "url": "/moonside/static/js/2.3f9eeada.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6c9a70c2e53b10be340",
-    "url": "/moonside/static/js/main.08d0d624.chunk.js"
+    "revision": "0ea68f2656d9c356e163",
+    "url": "/moonside/static/js/main.906bae9d.chunk.js"
   },
   {
     "revision": "e2200001ca1155631c0c",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moonside/static/media/banner.cdcf607d.gif"
   },
   {
-    "revision": "c5a7ce77981844113f32b5d558d8e3dd",
-    "url": "/moonside/static/media/burningman.c5a7ce77.png"
+    "revision": "147d239d087d9e54a69399a7a3091637",
+    "url": "/moonside/static/media/burningman.147d239d.png"
   },
   {
-    "revision": "941d819c63c05c1e021cdcaf301668d2",
-    "url": "/moonside/static/media/karting.941d819c.png"
+    "revision": "b22103ad9347b67230991ebf82995584",
+    "url": "/moonside/static/media/karting.b22103ad.png"
   },
   {
     "revision": "cbb87a29f4d3c8e30f2d11b930345d71",
@@ -64,7 +64,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moonside/static/media/plage.daace123.png"
   },
   {
-    "revision": "23e4e639122f6b851659948f1d4881d4",
-    "url": "/moonside/static/media/taxi.23e4e639.png"
+    "revision": "a1ba5e579f42d3ee2c95565fea806e4b",
+    "url": "/moonside/static/media/taxi.a1ba5e57.png"
+  },
+  {
+    "revision": "d95a82dc2d43830322664cbfa3d66e7e",
+    "url": "/moonside/static/media/taxiMoldu.d95a82dc.jpg"
   }
 ]);
